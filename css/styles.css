@@ -1,0 +1,22 @@
+body {
+  background-color: lightskyblue;
+  margin-left: 2%;
+}
+
+hr {
+  border-style: dotted;
+  border-color: grey;
+  border-width: 7px 0 0 0;
+  width: 5%;
+}
+
+h1{
+  color: #400082;
+}
+h3{
+  color: #7F78D2;
+  font-family: "Courier New",Times,serif;
+  border-style: dashed;
+  border-width: 0 0 3px 0;
+  display: inline;
+}
